@@ -1,4 +1,13 @@
-# 1. ターミナル設定
+# 1. Tools
+
+``` zsh
+brew install --cask visual-studio-code
+brew install --cask google-chrome
+
+brew install docker
+```
+
+# 2. ターミナル設定
 
 ## iTermインストール
 
@@ -8,7 +17,7 @@ https://ohmyz.sh/#install
 ### PowerLevel10kインストール
 https://github.com/romkatv/powerlevel10k?tab=readme-ov-file#oh-my-zsh
 
-# 2. vim設定
+# 3. vim設定
 ## Icebergインストール
 
 ``` zsh
