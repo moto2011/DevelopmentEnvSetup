@@ -28,4 +28,7 @@ $ cp iceberg.vim/colors/iceberg.vim colors/.
 ```
 
 ## vim設定
-.vimrc コピー
+[.vimrc](./.vimrc) をコピーする
+
+
+## VSCode設定
