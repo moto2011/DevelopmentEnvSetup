@@ -32,3 +32,7 @@ $ cp iceberg.vim/colors/iceberg.vim colors/.
 
 
 ## VSCode設定
+[settings.json](./settings.json) をコピーする
+
+### VSCodeVimでNormal Modeに戻った時に日本語入力になったままの状態を変える
+https://zenn.dev/moto/scraps/269a8afc672773
