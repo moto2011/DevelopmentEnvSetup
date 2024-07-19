@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "window.titleBarStyle": "custom",
+    "vim.autoSwitchInputMethod.enable": true,
+    "vim.autoSwitchInputMethod.defaultIM": "com.apple.keylayout.ABC",
+    "vim.autoSwitchInputMethod.obtainIMCmd": "/opt/homebrew/bin/im-select",
+    "vim.autoSwitchInputMethod.switchIMCmd": "/opt/homebrew/bin/im-select {im}",
+    "vim.whichwrap": "b,s,<,>,[,],h,l",
+    "dart.debugExternalPackageLibraries": false,
+    "dart.debugSdkLibraries": false,
+    "dart.flutterSdkPath": "/Users/nakamura/.asdf/installs/flutter/3.0.0-stable",
+    "github.copilot.editor.enableAutoCompletions": true,
+    "editor.minimap.enabled": false,
+}
