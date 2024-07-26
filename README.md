@@ -3,6 +3,7 @@
 ``` zsh
 brew install --cask visual-studio-code
 brew install --cask google-chrome
+brew install --cask iterm
 
 brew install docker
 ```
