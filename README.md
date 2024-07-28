@@ -1,11 +1,14 @@
 # 1. Tools
 
 ``` zsh
-brew install --cask visual-studio-code
 brew install --cask google-chrome
+brew install --cask visual-studio-code
 brew install --cask iterm
+brew install --cask notion-calendar
 
-brew install docker
+brew install rbenv
+brew install direnv
+brew install jq
 ```
 
 # 2. ターミナル設定
