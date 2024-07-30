@@ -1,18 +1,8 @@
 # 1. Tools
 
 ``` zsh
-brew install --cask iterm
-brew install --cask visual-studio-code
-brew install --cask raycast
-brew install --cask google-chrome
-brew install --cask multipass
-brew install --cask appcleaner
-brew install --cask fork
-brew install --cask notion-calendar
-
-brew install rbenv
-brew install direnv
-brew install jq
+brew install --cask iterm2 visual-studio-code raycast google-chrome multipass appcleaner fork notion notion-calendar
+brew install rbenv direnv jq
 ```
 
 # 2. ターミナル設定
