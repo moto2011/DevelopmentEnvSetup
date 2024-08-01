@@ -10,4 +10,6 @@
     "dart.debugSdkLibraries": false,
     "github.copilot.editor.enableAutoCompletions": true,
     "editor.minimap.enabled": false,
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
 }
