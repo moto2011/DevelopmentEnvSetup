@@ -37,3 +37,6 @@ https://qiita.com/yokohama/items/0aa40e8239d0f8b5afc3
 
 ### VSCodeVimでNormal Modeに戻った時に日本語入力になったままの状態を変える
 https://zenn.dev/moto/scraps/269a8afc672773
+
+# 3. Android Studio
+https://developer.android.com/studio
