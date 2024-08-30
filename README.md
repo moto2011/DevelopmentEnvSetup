@@ -40,3 +40,5 @@ https://zenn.dev/moto/scraps/269a8afc672773
 
 # 3. Android Studio
 https://developer.android.com/studio
+
+# IntelliJ IDEA
