@@ -45,4 +45,6 @@ https://developer.android.com/studio
 
 ## Plugins
 
-# 
+# Rectangle
+
+https://rectangleapp.com/
